@@ -1,10 +1,10 @@
 {
-  "name": "react-bootstrap",
-  "version": "0.31.5",
-  "description": "Bootstrap 3 components built with React",
+  "name": "react-bootstrap-3-legacy",
+  "version": "0.0.3",
+  "description": "React Bootstrap 3 fork created to fix conflicts",
   "repository": {
     "type": "git",
-    "url": "react-bootstrap/react-bootstrap"
+    "url": "evisotskiy/react-bootstrap"
   },
   "homepage": "https://react-bootstrap.github.io/",
   "scripts": {
@@ -35,7 +35,7 @@
     "react-component",
     "bootstrap"
   ],
-  "author": "Stephen J. Collings <stevoland@gmail.com>",
+  "author": "Eugene Visotskiy <eovisotskiy@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "react": "^0.14.9 || >=15.3.0",
@@ -128,12 +128,8 @@
     "keycode": "^2.1.2",
     "prop-types": "^15.5.10",
     "prop-types-extra": "^1.0.1",
-    "react-overlays-legasy": "npm:react-overlays@0.7.4",
+    "react-overlays-legacy": "npm:react-overlays@0.7.4",
     "uncontrollable": "^4.1.0",
     "warning": "^3.0.0"
-  },
-  "release-script": {
-    "bowerRepo": "git@github.com:react-bootstrap/react-bootstrap-bower.git",
-    "docsRepo": "git@github.com:react-bootstrap/react-bootstrap.github.io.git"
   }
 }

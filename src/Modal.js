@@ -6,8 +6,8 @@ import getScrollbarSize from 'dom-helpers/util/scrollbarSize';
 import React from 'react';
 import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
-import BaseModal from 'react-overlays/lib/Modal';
-import isOverflowing from 'react-overlays/lib/utils/isOverflowing';
+import BaseModal from 'react-overlays-legacy/lib/Modal';
+import isOverflowing from 'react-overlays-legacy/lib/utils/isOverflowing';
 import elementType from 'prop-types-extra/lib/elementType';
 
 import Fade from './Fade';

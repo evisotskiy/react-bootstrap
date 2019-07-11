@@ -2,7 +2,7 @@ import classNames from 'classnames';
 import css from 'dom-helpers/style';
 import React from 'react';
 import PropTypes from 'prop-types';
-import Transition from 'react-overlays/lib/Transition';
+import Transition from 'react-overlays-legacy/lib/Transition';
 
 import capitalize from './utils/capitalize';
 import createChainedFunction from './utils/createChainedFunction';

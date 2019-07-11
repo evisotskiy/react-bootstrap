@@ -1,5 +1,5 @@
 import React from 'react';
-import AutoAffix from 'react-overlays/lib/AutoAffix';
+import AutoAffix from 'react-overlays-legacy/lib/AutoAffix';
 import Waypoint from 'react-waypoint';
 
 import Nav from '../../src/Nav';

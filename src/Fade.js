@@ -1,7 +1,7 @@
 import classNames from 'classnames';
 import React from 'react';
 import PropTypes from 'prop-types';
-import Transition from 'react-overlays/lib/Transition';
+import Transition from 'react-overlays-legacy/lib/Transition';
 
 const propTypes = {
   /**
